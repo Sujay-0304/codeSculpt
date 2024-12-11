@@ -824,7 +824,7 @@ transform: translateZ(20px);
 .progressone{
   height: 3px;
   position: absolute;
-  width: 85%;
+  width: 70%;
   /* border:1px solid grey; */
   background: linear-gradient(to right,rgb(36, 81, 103),rgb(0, 55, 255));
   border-radius: 5px;
@@ -835,7 +835,7 @@ transform: translateZ(20px);
 .progresstwo{
   height: 3px;
   position: absolute;
-  width: 65%;
+  width: 85%;
   /* border:1px solid grey; */
   background: linear-gradient(to right,rgb(39, 90, 64),rgb(0, 255, 38));
   border-radius: 5px;
@@ -845,7 +845,7 @@ transform: translateZ(20px);
 .progressthree{
   height: 3px;
   position: absolute;
-  width: 82%;
+  width: 75%;
   background: linear-gradient(to right,rgb(83, 73, 39),rgb(208, 255, 0));
   border-radius: 5px;
   box-shadow: 0px 0px 21px 0.5px  rgb(208, 255, 0);
@@ -913,7 +913,7 @@ box-shadow: 0px 0px 15px #000;
 }
 .title{
   position: relative;
-  left:22.5%;
+  text-align: center;
   top:10px;
   padding-bottom:20px;
  /* font-size: 1.2rem; */
